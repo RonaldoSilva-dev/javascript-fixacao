@@ -47,9 +47,9 @@
 > idade = null;
 >
 > 6 Symbol: define um identificador único / let id = Symbol(“id”);
-
-1.  BigInt: define número grande / 738438766n
-
+> 
+> 7 BigInt: define número grande / 738438766n.
+> 
 > **1.4 Qual a diferença entre null e undefined?**
 >
 > R = Null espaço vazio proposital (intencional). Undefined é um espaço
